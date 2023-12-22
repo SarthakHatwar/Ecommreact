@@ -1,13 +1,8 @@
 {
-  "name": "shoping-cart",
-  "homepage": "https://niteshsingh29.github.io/E-commerce",
+  "name": "shoping",
   "version": "0.1.0",
   "private": true,
-    "dependencies": {
-  "@material-ui/core": "^4.12.4",
-  "@material-ui/icons": "^4.11.3",
-  "react": "^18.2.0",
-  "@material-ui/core": "^4.12.4",
+  "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "@material-ui/core": "^4.12.4",
